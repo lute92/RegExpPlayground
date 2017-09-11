@@ -1,0 +1,19 @@
+{
+  "name": "regularexp",
+  "version": "1.0.0",
+  "description": "RegExp playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lute92/RegExpPlayground.git"
+  },
+  "author": "Lute",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lute92/RegExpPlayground/issues"
+  },
+  "homepage": "https://github.com/lute92/RegExpPlayground#readme"
+}
